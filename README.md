@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/Alamnzr123/starterpack_reactjs_2">
+  <a href="https://github.com/Alamnzr123/starterpack_reactjs_3">
   TMDB Movie
   </a>
   <br />
@@ -7,12 +7,12 @@
 
 ![screenshot](ss.png)
 
-**ERP Landing** is a landing page template built on top of TailwindCSS and fully coded in **React**.
-Modern landing page Simple & light is designed to provide all the basic components using the `sx` prop for a developer need to create landing page for Company Profile.
+**TMDB Movie** is a landing page template built on top of TailwindCSS and fully coded in **React**.
+Modern landing page Simple & light is designed to provide all the basic components using the `sx` prop for a developer need to create landing page for Movie Application.
 
 ## Live Demo
 
-Take a look the live demo here 👉 [https://starterpack-reactjs-2.vercel.app/](https://starterpack-reactjs-2.vercel.app/)
+Take a look the live demo here 👉 [https://starterpack-reactjs-3.vercel.app/](https://starterpack-reactjs-3.vercel.app/)
 
 ## Getting Started
 
@@ -43,8 +43,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Credits
-
-- [Unsplash](https://unsplash.com/) Asset for ERP Landing Page
-- [HeroIcons](https://heroicons.com/) Asset icon for ERP Landing Page
 - [HeadlessUI](https://headlessui.com/) Component for TailwindCSS using ReactJS
 - [TailwindCSS](https://tailwindcss.com/) Modern styling for ReactJS
